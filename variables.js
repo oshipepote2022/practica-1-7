@@ -15,8 +15,17 @@ var ganoBoca = false; // bool o boolean o booleano
 var cantBitcoinsPoseo =  0.0000024; // float o decimal 
 
 var cantDolaresPoseo = 32.32; // float o decimal
+// faltaba la consola
+console.log( anioActual ) ;
+console.log( carreteraBuenosAiresMarDelPlata ) ;
+console.log( calleCorrientes ) ;
+console.log( estaLloviendo ) ;
+console.log( ganoBoca ) ;
+console.log( cantBitcoinsPoseo ) ;
+console.log( cantDolaresPoseo ) ;
 
 // terminamos la primer parte
+
 
 // segunda practica
 
